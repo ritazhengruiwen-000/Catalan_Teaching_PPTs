@@ -35,21 +35,21 @@ This index reflects the curriculum sequence of our presentation slides. Click on
 
 | Lesson | Topic Presentation Links | Core Learning Focus & Keywords | Status |
 | :--- | :--- | :--- | :--- |
-| **Lesson 1** | [Greetings & Pronunciation](https://google.com) | Student assessment, 6 initial words introduced, basic phonics (*x, ny, ll, l·l*). | Ready |
-| **Lesson 2** | [Numbers & Dates](https://google.com) | Basic vocabulary assessment, counting past 100, days/months, and simple *Jo + verb* configurations. | Ready |
-| **Lesson 3** | [Basic Interactions](https://google.com) | Mastering high-frequency interactions using `Què fas?` (What are you doing?) and `Què tens?` (What do you have?). | Ready |
-| **Lesson 4** | [Preferences & Daily Routine](https://google.com) | Learning to voice basic child preferences using `M'agrada` / `No m'agrada` alongside daily actions. | Ready |
-| **Lesson 5** | [Simple Locations](https://google.com) | Introducing basic physical concepts using `On és?` (Where is it?) and simple spatial directions. | Ready |
+| **Lesson 1** | [Greetings & Pronunciation](https://docs.google.com/presentation/d/1tUud8s5-mEscMmKuQToc6b92TpE7aE1I/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Student assessment, 6 initial words introduced, basic phonics (*x, ny, ll, l·l*). | Ready |
+| **Lesson 2** | [Numbers & Dates](https://docs.google.com/presentation/d/1zbt7NT02ELfkneFjkbGsNdEPawtJR3Uq/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Basic vocabulary assessment, counting past 100, days/months, and simple *Jo + verb* configurations. | Ready |
+| **Lesson 3** | [Basic Interactions](https://docs.google.com/presentation/d/1jjz-gDzX2UMh98F6HP0Jz66TgsLoi6ze/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Mastering high-frequency interactions using `Què fas?` (What are you doing?) and `Què tens?` (What do you have?). | Ready |
+| **Lesson 4** | [Preferences & Daily Routine](https://docs.google.com/presentation/d/1UIEWK8i-Ng68rS8cowWzRvSZmYmU09nE/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Learning to voice basic child preferences using `M'agrada` / `No m'agrada` alongside daily actions. | Ready |
+| **Lesson 5** | [Simple Locations](https://docs.google.com/presentation/d/1tHPweIM5U7l_kCdjOObR8mKe-b69NV2Y/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Introducing basic physical concepts using `On és?` (Where is it?) and simple spatial directions. | Ready |
 
 ### Phase 2: Systematic Grammar & Situational Units (Structured Coursework)
 
 | Lesson | Topic Presentation Links | Core Learning Focus & Keywords | Status |
 | :--- | :--- | :--- | :--- |
-| **Lesson 6** | [Modal Verbs (poder, haver de, voler)](https://google.com) | Expressing child-relevant ability, duty, and desire using `poder`, `haver de`, and `voler` variations. | Ready |
-| **Lesson 7** | [Shopping & Prices](https://google.com) | Practical vocabulary for buying items, asking for prices, math operations, and simple transactions. | Ready |
-| **Lesson 8** | [Presenting & Describing People](https://google.com) | Foundations of identity introductions, describing others, and regular verb present tense conjugations. | Ready |
-| **Lesson 9** | [Possessive Adjectives](https://google.com) | Singular and plural modifiers (*el meu, la teva, els seus*) paired with family units and class objects. | Ready |
-| **Lesson 10** | [Estar, Positions & Feelings](https://google.com) | Describing spatial positions and temporary emotional states using `Estar` and structural prepositions. | Ready |
+| **Lesson 6** | [Modal Verbs (poder, haver de, voler)](https://docs.google.com/presentation/d/1RD7MrqQhe2ELMqPgsOmufbLY65W-FGXW/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Expressing child-relevant ability, duty, and desire using `poder`, `haver de`, and `voler` variations. | Ready |
+| **Lesson 7** | [Shopping & Prices](https://docs.google.com/presentation/d/1Ua3LDMcVNVJULSHwjcJf3u99Zv1QvVM0/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Practical vocabulary for buying items, asking for prices, math operations, and simple transactions. | Ready |
+| **Lesson 8** | [Presenting & Describing People](https://docs.google.com/presentation/d/1NhpOL3CuW2KU6KetfSOO03Oz5Ng8nfpf/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Foundations of identity introductions, describing others, and regular verb present tense conjugations. | Ready |
+| **Lesson 9** | [Possessive Adjectives](https://docs.google.com/presentation/d/1DcQ4ZJ9LL2pi7yrPnioSn-TQMFouPsMS/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Singular and plural modifiers (*el meu, la teva, els seus*) paired with family units and class objects. | Ready |
+| **Lesson 10** | [Estar, Positions & Feelings](https://docs.google.com/presentation/d/1NnWFRNnOOEqd3anxwEgdopcUVAQOCgZB/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Describing spatial positions and temporary emotional states using `Estar` and structural prepositions. | Ready |
 | **Lesson 11** | School & Materials (Link Pending) | Vocabulary for classroom supplies, subjects, and expressions related to primary school routines. | Ready |
 | **Lesson 12** | Restaurant Scene (Link Pending) | Situational roleplay unit for ordering food items, communicating politeness, and table talk (*Al restaurant*). | Ready |
 | **Lesson 13** | [Clothes, Colors & Weather](https://catala-classe14.surge.sh/#1) | Combining clothing items, color adjectives, seasonal changes, and describing the daily weather. | Ready |
