@@ -3,99 +3,217 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Català per infants | Lliçons</title>
+    <title>Start your Catalan journey | Classes for kids</title>
     <style>
         :root {
             --primary: #1a3a5c;
             --accent: #e67e22;
-            --white: #ffffff;
+            --light-orange: #fff6ed;
+            --grey-text: #505050;
+            --shadow: 0 4px 12px rgba(26, 58, 92, 0.08);
         }
         * {
             box-sizing: border-box;
-            font-family: Arial, Helvetica, sans-serif;
-            margin:0;
-            padding:0;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
         }
         body {
-            background-color: var(--white);
-            max-width: 900px;
-            margin: 3rem auto;
-            padding: 0 2rem;
+            background-color: #ffffff;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 40px 24px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 48px;
+            position: relative;
+        }
+        header::before {
+            content: "";
+            width: 80px;
+            height: 4px;
+            background-color: var(--accent);
+            display: block;
+            margin: 0 auto 20px;
+            border-radius: 4px;
         }
         h1 {
             color: var(--primary);
-            font-size: 2.4rem;
-            margin-bottom:0.5rem;
+            font-size: 2.8rem;
+            margin-bottom: 10px;
         }
-        .subtitle {
+        .header-sub {
             color: var(--accent);
-            font-size:1.2rem;
-            margin-bottom: 2.5rem;
+            font-size: 1.25rem;
         }
-        .section-title{
-            color:var(--primary);
-            margin:2rem 0 1rem;
-            border-bottom:2px solid var(--accent);
-            padding-bottom:0.3rem;
+        .section-title {
+            color: var(--primary);
+            font-size:1.5rem;
+            margin: 40px 0 20px;
+            display:flex;
+            align-items:center;
         }
-        ul {
-            list-style: none;
+        .section-title::after{
+            content:"";
+            flex-grow:1;
+            height:2px;
+            background:var(--accent);
+            margin-left:16px;
         }
-        li {
-            margin: 0.9rem 0;
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
+            gap: 18px;
         }
-        a {
+        .lesson-card {
+            background:#fff;
+            border:1px solid #f0f0f0;
+            border-radius:14px;
+            padding:20px;
+            box-shadow: var(--shadow);
+            transition: all 0.25s ease;
+        }
+        .lesson-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 20px rgba(26, 58, 92, 0.12);
+        }
+        .lesson-card a {
+            text-decoration: none;
+        }
+        .lesson-card h3 {
             color: var(--primary);
             font-size:1.1rem;
-            text-decoration:none;
-            padding:0.4rem 0.6rem;
-            border-radius:6px;
-            display:inline-block;
-            transition: background 0.2s;
+            margin-bottom: 6px;
         }
-        a:hover {
-            background-color: #f8f3ec;
-            color:var(--accent);
-        }
-        .note{
-            color:#555;
+        .lesson-desc {
+            color: var(--grey-text);
             font-size:0.9rem;
-            margin-left:0.5rem;
+            line-height:1.4;
         }
-        footer{
-            margin-top:4rem;
-            color:#666;
+        .tag-html {
+            display:inline-block;
+            margin-top:10px;
+            background:var(--light-orange);
+            color:var(--accent);
+            font-size:0.8rem;
+            padding:3px 8px;
+            border-radius:99px;
+        }
+        .tag-soon {
+            display:inline-block;
+            margin-top:10px;
+            background:#f3f4f6;
+            color:#777;
+            font-size:0.8rem;
+            padding:3px 8px;
+            border-radius:99px;
+        }
+        footer {
+            text-align:center;
+            margin-top:60px;
+            color:#777;
             font-size:0.9rem;
         }
     </style>
 </head>
 <body>
-    <h1>Català per infants</h1>
-    <p class="subtitle">Lliçons de català de nivell inicial (per a nens)</p>
+<header>
+    <h1>Start your Catalan journey</h1>
+    <p class="header-sub">Catalan classes for young beginners</p>
+</header>
 
-    <h2 class="section-title">Fase 1: Descobriment i pronunciació (Lliçons 1–5)</h2>
-    <ul>
-        <li><a href="https://docs.google.com/presentation/d/1tUud8s5-mEscMmKuQToc6b92TpE7aE1I/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 1: Saluts i pronunciació</a> <span class="note">Vocabulari inicial i sons catalans</span></li>
-        <li><a href="https://docs.google.com/presentation/d/1zbt7NT02ELfkneFjkbGsNdEPawtJR3Uq/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 2: Nombres i dates</a> <span class="note">Comptar, dies i mesos</span></li>
-        <li><a href="https://docs.google.com/presentation/d/1jjz-gDzX2UMh98F6HP0Jz66TgsLoi6ze/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 3: Interaccions bàsiques</a> <span class="note">Què fas? Què tens?</span></li>
-        <li><a href="https://docs.google.com/presentation/d/1UIEWK8i-Ng68rS8cowWzRvSZmYmU09nE/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 4: Preferències i rutines diàries</a> <span class="note">M'agrada / No m'agrada</span></li>
-        <li><a href="https://docs.google.com/presentation/d/1tHPweIM5U7l_kCdjOObR8mKe-b69NV2Y/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 5: Llocs senzills</a> <span class="note">On és? Indicacions espacials</span></li>
-    </ul>
+<h2 class="section-title">Phase 1: Discovery & Pronunciation (Classes 1–5)</h2>
+<div class="card-grid">
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1tUud8s5-mEscMmKuQToc6b92TpE7aE1I/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 1: Greetings & Pronunciation</h3>
+            <p class="lesson-desc">Initial vocabulary and Catalan sounds</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1zbt7NT02ELfkneFjkbGsNdEPawtJR3Uq/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 2: Numbers & Dates</h3>
+            <p class="lesson-desc">Counting, days and months</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1jjz-gDzX2UMh98F6HP0Jz66TgsLoi6ze/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 3: Basic Interactions</h3>
+            <p class="lesson-desc">Què fas? Què tens?</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1UIEWK8i-Ng68rS8cowWzRvSZmYmU09nE/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 4: Preferences & Daily Routine</h3>
+            <p class="lesson-desc">M'agrada / No m'agrada</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1tHPweIM5U7l_kCdjOObR8mKe-b69NV2Y/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 5: Simple Locations</h3>
+            <p class="lesson-desc">On és? Spatial directions</p>
+        </a>
+    </div>
+</div>
 
-    <h2 class="section-title">Fase 2: Gramàtica i situacions (Lliçons 6–13)</h2>
-    <ul>
-        <li><a href="https://docs.google.com/presentation/d/1RD7MrqQhe2ELMqPgsOmufbLY65W-FGXW/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 6: Verbs modals (poder, haver de, voler)</a></li>
-        <li><a href="https://docs.google.com/presentation/d/1Ua3LDMcVNVJULSHwjcJf3u99Zv1QvVM0/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 7: Compres i preus</a></li>
-        <li><a href="https://docs.google.com/presentation/d/1NhpOL3CuW2KU6KetfSOO03Oz5Ng8nfpf/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 8: Presentar i descriure persones</a></li>
-        <li><a href="https://docs.google.com/presentation/d/1DcQ4ZJ9LL2pi7yrPnioSn-TQMFouPsMS/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 9: Adjectius possessius</a></li>
-        <li><a href="https://docs.google.com/presentation/d/1NnWFRNnOOEqd3anxwEgdopcUVAQOCgZB/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">Lliçó 10: Estar, posicions i sentiments</a></li>
-        <li><a href="#">Lliçó 11: L'escola i el material escolar</a> <span class="note">En preparació</span></li>
-        <li><a href="#">Lliçó 12: Al restaurant</a> <span class="note">En preparació</span></li>
-        <li><a href="https://catala-classe14.surge.sh/#1">Lliçó 13: La roba, els colors i el temps</a> <span class="note">Versió HTML interactiva</span></li>
-    </ul>
+<h2 class="section-title">Phase 2: Grammar & Situational Units (Classes 6–13)</h2>
+<div class="card-grid">
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1RD7MrqQhe2ELMqPgsOmufbLY65W-FGXW/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 6: Modal Verbs (poder, haver de, voler)</h3>
+            <p class="lesson-desc">Express ability, duty and wishes</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1Ua3LDMcVNVJULSHwjcJf3u99Zv1QvVM0/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 7: Shopping & Prices</h3>
+            <p class="lesson-desc">Vocabulary for shopping scenarios</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1NhpOL3CuW2KU6KetfSOO03Oz5Ng8nfpf/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 8: Presenting & Describing People</h3>
+            <p class="lesson-desc">Descriptions and regular present verbs</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1DcQ4ZJ9LL2pi7yrPnioSn-TQMFouPsMS/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 9: Possessive Adjectives</h3>
+            <p class="lesson-desc">el meu, la teva, els seus...</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="https://docs.google.com/presentation/d/1NnWFRNnOOEqd3anxwEgdopcUVAQOCgZB/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true">
+            <h3>Class 10: Estar, Positions & Feelings</h3>
+            <p class="lesson-desc">Describe locations and temporary states</p>
+        </a>
+    </div>
+    <div class="lesson-card">
+        <a href="#">
+            <h3>Class 11: School & Materials</h3>
+            <p class="lesson-desc">Classroom vocabulary & subjects</p>
+        </a>
+        <span class="tag-soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+        <a href="#">
+            <h3>Class 12: Restaurant Scene</h3>
+            <p class="lesson-desc">Roleplay and food orders</p>
+        </a>
+        <span class="tag-soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+        <a href="https://catala-classe14.surge.sh/#1">
+            <h3>Class 13: Clothes, Colors & Weather</h3>
+            <p class="lesson-desc">Clothing, colours & weather description</p>
+        </a>
+        <span class="tag-html">Interactive HTML slides</span>
+    </div>
+</div>
 
-    <footer>
-        <p>Recursos de català per infants · Llicència MIT</p>
-    </footer>
+<footer>
+    <p>Catalan learning resources for kids · MIT License</p>
+</footer>
 </body>
 </html>
