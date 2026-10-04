@@ -45,23 +45,23 @@ This layout shows how the files are organized within the project folders:
 
 ## Available Topics Index
 
-This index reflects the curriculum sequence of our presentation slides. Click on any topic title to go directly to its folder. All materials feature a child-friendly structure with bilingual keywords (Catalan/Chinese) to support complete beginners.
+This index reflects the curriculum sequence of our presentation slides. You can browse the offline lesson folders or open the live cloud presentations directly. All materials feature a child-friendly structure with bilingual keywords (Catalan/Chinese) to support complete beginners.
 
-| Lesson | Topic Title | Core Learning Focus & Keywords | Status |
-| :--- | :--- | :--- | :--- |
-| **Lesson 1** | [Greetings & Pronunciation](./Primary_Lessons/01_Greetings_Pronunciation/) | Core verbs (anar, menjar, beure, dormir, mirar, fer) in "Jo" form and unique phonics (x, ny, ll, l·l). | Ready |
-| **Lesson 2** | [Numbers & Dates](./Primary_Lessons/02_Numbers_Dates/) | Counting past 100, asking for dates, days of the week, months, and simple math operations. | Ready |
-| **Lesson 3** | [Present Tense (-ar verbs)](./Primary_Lessons/03_Present_Tense_AR/) | Conjugation structures for -ar verbs (parlar, cantar) focusing on jo, tu, and ell/ella人称. | Ready |
-| **Lesson 4** | [Present Tense (-er/-ir verbs)](./Primary_Lessons/04_Present_Tense_ER_IR/) | Conjugation structures for -er and -ir regular verbs (beure, dormir, córrer, obrir). | Ready |
-| **Lesson 5** | [Shopping & Prices](./Primary_Lessons/05_Shopping_Prices/) | Practical vocabulary for buying things, asking for prices, numbers, and basic classroom object prepositions. | Ready |
-| **Lesson 6** | [Daily Routine (ordinals)](./Primary_Lessons/06_Daily_Routine/) | Sequence order words (primer, segon, després, finalment) paired with routine verbs (llevar-se, esmorzar). | Ready |
-| **Lesson 7** | [Likes (M'agrada) & Food](./Primary_Lessons/07_Likes_Food/) | Expressing likes and dislikes using M'agrada / No m'agrada + infinitives (menjar xocolata, mirar TV). | Ready |
-| **Lesson 8** | [Modal Verbs (poder, haver de, voler)](./Primary_Lessons/08_Modal_Verbs/) | Expressing ability, obligation, and desire using poder, haver de, and voler in affirmative and negative frames. | Ready |
-| **Lesson 9** | [Possessive Adjectives](./Primary_Lessons/09_Possessive_Adjectives/) | Master singular and plural possessives (el meu, la teva, els seus) paired with family and school objects. | Ready |
-| **Lesson 10** | [Estar vs Ser](./Primary_Lessons/10_Estar_Ser/) | Differentiating identity (Ser) from position/location (Estar) using prepositions like amb and de. | Ready |
-| **Lesson 11** | [Present Perfect (Pretèrit Perfet)](./Primary_Lessons/11_Present_Perfect/) | Introduction to the past tense to describe actions primary students have recently completed. | Ready |
-| **Lesson 12** | [Restaurant Scene](./Primary_Lessons/12_Restaurant_Scene/) | Theme-based vocabulary for food items, ordering meals, and using polite phrases (Al restaurant). | Ready |
-| **Lesson 13** | [Clothes, Colors & Weather](./Primary_Lessons/13_Clothes_Colors_Weather/) | Combining physical traits, clothing vocabulary, colors, seasons, and describing daily weather changes. | Ready |
+| Lesson | Lesson Folder (Offline) | Live Presentation (Cloud) | Core Learning Focus & Keywords | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lesson 1** | [Greetings & Pronunciation](./Primary_Lessons/01_Greetings_Pronunciation/) | [Google Slides](https://docs.google.com/presentation/d/1tUud8s5-mEscMmKuQToc6b92TpE7aE1I/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Core verbs (anar, menjar, beure, dormir, mirar, fer) in "Jo" form and unique phonics (x, ny, ll, l·l). | Ready |
+| **Lesson 2** | [Numbers & Dates](./Primary_Lessons/02_Numbers_Dates/) | [Google Slides](https://docs.google.com/presentation/d/1zbt7NT02ELfkneFjkbGsNdEPawtJR3Uq/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Counting past 100, asking for dates, days of the week, months, and simple math operations. | Ready |
+| **Lesson 3** | [Present Tense (-ar verbs)](./Primary_Lessons/03_Present_Tense_AR/) | [Google Slides](https://docs.google.com/presentation/d/1jjz-gDzX2UMh98F6HP0Jz66TgsLoi6ze/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Conjugation structures for -ar verbs (parlar, cantar) focusing on jo, tu, and ell/ella人称. | Ready |
+| **Lesson 4** | [Present Tense (-er/-ir verbs)](./Primary_Lessons/04_Present_Tense_ER_IR/) | [Google Slides](https://docs.google.com/presentation/d/1UIEWK8i-Ng68rS8cowWzRvSZmYmU09nE/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Conjugation structures for -er and -ir regular verbs (beure, dormir, córrer, obrir). | Ready |
+| **Lesson 5** | [Shopping & Prices](./Primary_Lessons/05_Shopping_Prices/) | [Google Slides](https://docs.google.com/presentation/d/1tHPweIM5U7l_kCdjOObR8mKe-b69NV2Y/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Practical vocabulary for buying things, asking for prices, numbers, and basic classroom object prepositions. | Ready |
+| **Lesson 6** | [Daily Routine (ordinals)](./Primary_Lessons/06_Daily_Routine/) | [Google Slides](https://docs.google.com/presentation/d/1RD7MrqQhe2ELMqPgsOmufbLY65W-FGXW/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Sequence order words (primer, segon, després, finalment) paired with routine verbs (llevar-se, esmorzar). | Ready |
+| **Lesson 7** | [Likes (M'agrada) & Food](./Primary_Lessons/07_Likes_Food/) | [Google Slides](https://docs.google.com/presentation/d/1Ua3LDMcVNVJULSHwjcJf3u99Zv1QvVM0/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Expressing likes and dislikes using M'agrada / No m'agrada + infinitives (menjar xocolata, mirar TV). | Ready |
+| **Lesson 8** | [Modal Verbs (poder, haver de, voler)](./Primary_Lessons/08_Modal_Verbs/) | [Google Slides](https://docs.google.com/presentation/d/1NhpOL3CuW2KU6KetfSOO03Oz5Ng8nfpf/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Expressing ability, obligation, and desire using poder, haver de, and voler in affirmative and negative frames. | Ready |
+| **Lesson 9** | [Possessive Adjectives](./Primary_Lessons/09_Possessive_Adjectives/) | [Google Slides](https://docs.google.com/presentation/d/1DcQ4ZJ9LL2pi7yrPnioSn-TQMFouPsMS/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Master singular and plural possessives (el meu, la teva, els seus) paired with family and school objects. | Ready |
+| **Lesson 10** | [Estar vs Ser](./Primary_Lessons/10_Estar_Ser/) | [Google Slides](https://docs.google.com/presentation/d/1NnWFRNnOOEqd3anxwEgdopcUVAQOCgZB/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Differentiating identity (Ser) from position/location (Estar) using prepositions like amb and de. | Ready |
+| **Lesson 11** | [Present Perfect (Pretèrit Perfet)](./Primary_Lessons/11_Present_Perfect/) | Link Pending | Introduction to the past tense to describe actions primary students have recently completed. | Ready |
+| **Lesson 12** | [Restaurant Scene](./Primary_Lessons/12_Restaurant_Scene/) | Link Pending | Theme-based vocabulary for food items, ordering meals, and using polite phrases (Al restaurant). | Ready |
+| **Lesson 13** | [Clothes, Colors & Weather](./Primary_Lessons/13_Clothes_Colors_Weather/) | Link Pending | Combining physical traits, clothing vocabulary, colors, seasons, and describing daily weather changes. | Ready |
 
 ---
 
