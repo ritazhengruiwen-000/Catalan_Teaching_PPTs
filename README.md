@@ -1,5 +1,7 @@
 # Catalan Teaching PPTs
 
+> 🔗 **Visit the website: [Start your Catalan journey](https://ritazhengruiwen-000.github.io/Catalan_Teaching_PPTs/)**
+
 Welcome to the Catalan Teaching PPTs repository. This project is a curated collection of presentation slides and structured lesson outlines designed specifically for absolute beginners to the Catalan language, with a design style targeted directly at primary school students.
 
 ## Table of Contents
