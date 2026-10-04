@@ -14,7 +14,10 @@ Welcome to the Catalan Teaching PPTs repository. This project is a curated colle
 ---
 
 ## About the Project
-This repository acts as an open-source hub for classroom-ready presentation materials. The content breaks down fundamental Catalan grammar, introductory vocabulary, and basic structures into highly accessible, byte-sized modules perfect for young learners starting from scratch.
+This repository acts as an open-source hub for classroom-ready presentation materials. The curriculum is divided into two major instructional phases:
+
+* **Lessons 1–5 (Diagnostic & Discovery Phase):** These initial lessons are designed to get to know the students and informally assess their baseline vocabulary. They cover conversational prompts, mixed exploratory topics, and foundational pronunciation mechanics.
+* **Lesson 6 onwards (Structured Curriculum Phase):** From this point forward, the presentations follow a highly clean, systematic layout. Each slide deck focuses tightly on structured grammar systems, verb paradigms, and clear situational communication.
 
 ## Target Audience & Style
 Every resource in this repository is built around the specific learning needs of young kids:
@@ -31,8 +34,8 @@ This layout shows how the files are organized within the project folders:
 │   ├── 01_Greetings_Pronunciation/
 │   │   ├── Greetings_Pronunciation.pptx
 │   │   └── README.md
-│   ├── 02_Numbers_Dates/
-│   │   ├── Numbers_Dates.pptx
+│   ├── 06_Modal_Verbs/
+│   │   ├── Modal_Verbs.pptx
 │   │   └── README.md
 │   └── 09_Possessive_Adjectives/
 │       ├── Possessive_Adjectives.pptx
@@ -47,21 +50,28 @@ This layout shows how the files are organized within the project folders:
 
 This index reflects the curriculum sequence of our presentation slides. You can browse the offline lesson folders or open the live cloud presentations directly. All materials feature a child-friendly structure with bilingual keywords (Catalan/Chinese) to support complete beginners.
 
+### Phase 1: Diagnostic, Pronunciation & Basic Discovery
+
 | Lesson | Lesson Folder (Offline) | Live Presentation (Cloud) | Core Learning Focus & Keywords | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lesson 1** | [Greetings & Pronunciation](./Primary_Lessons/01_Greetings_Pronunciation/) | [Google Slides](https://docs.google.com/presentation/d/1tUud8s5-mEscMmKuQToc6b92TpE7aE1I/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Core verbs (anar, menjar, beure, dormir, mirar, fer) in "Jo" form and unique phonics (x, ny, ll, l·l). | Ready |
-| **Lesson 2** | [Numbers & Dates](./Primary_Lessons/02_Numbers_Dates/) | [Google Slides](https://docs.google.com/presentation/d/1zbt7NT02ELfkneFjkbGsNdEPawtJR3Uq/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Counting past 100, asking for dates, days of the week, months, and simple math operations. | Ready |
-| **Lesson 3** | [Present Tense (-ar verbs)](./Primary_Lessons/03_Present_Tense_AR/) | [Google Slides](https://docs.google.com/presentation/d/1jjz-gDzX2UMh98F6HP0Jz66TgsLoi6ze/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Conjugation structures for -ar verbs (parlar, cantar) focusing on jo, tu, and ell/ella人称. | Ready |
-| **Lesson 4** | [Present Tense (-er/-ir verbs)](./Primary_Lessons/04_Present_Tense_ER_IR/) | [Google Slides](https://docs.google.com/presentation/d/1UIEWK8i-Ng68rS8cowWzRvSZmYmU09nE/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Conjugation structures for -er and -ir regular verbs (beure, dormir, córrer, obrir). | Ready |
-| **Lesson 5** | [Shopping & Prices](./Primary_Lessons/05_Shopping_Prices/) | [Google Slides](https://docs.google.com/presentation/d/1tHPweIM5U7l_kCdjOObR8mKe-b69NV2Y/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Practical vocabulary for buying things, asking for prices, numbers, and basic classroom object prepositions. | Ready |
-| **Lesson 6** | [Daily Routine (ordinals)](./Primary_Lessons/06_Daily_Routine/) | [Google Slides](https://docs.google.com/presentation/d/1RD7MrqQhe2ELMqPgsOmufbLY65W-FGXW/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Sequence order words (primer, segon, després, finalment) paired with routine verbs (llevar-se, esmorzar). | Ready |
-| **Lesson 7** | [Likes (M'agrada) & Food](./Primary_Lessons/07_Likes_Food/) | [Google Slides](https://docs.google.com/presentation/d/1Ua3LDMcVNVJULSHwjcJf3u99Zv1QvVM0/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Expressing likes and dislikes using M'agrada / No m'agrada + infinitives (menjar xocolata, mirar TV). | Ready |
-| **Lesson 8** | [Modal Verbs (poder, haver de, voler)](./Primary_Lessons/08_Modal_Verbs/) | [Google Slides](https://docs.google.com/presentation/d/1NhpOL3CuW2KU6KetfSOO03Oz5Ng8nfpf/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Expressing ability, obligation, and desire using poder, haver de, and voler in affirmative and negative frames. | Ready |
-| **Lesson 9** | [Possessive Adjectives](./Primary_Lessons/09_Possessive_Adjectives/) | [Google Slides](https://docs.google.com/presentation/d/1DcQ4ZJ9LL2pi7yrPnioSn-TQMFouPsMS/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Master singular and plural possessives (el meu, la teva, els seus) paired with family and school objects. | Ready |
-| **Lesson 10** | [Estar vs Ser](./Primary_Lessons/10_Estar_Ser/) | [Google Slides](https://docs.google.com/presentation/d/1NnWFRNnOOEqd3anxwEgdopcUVAQOCgZB/edit?usp=sharing&ouid=117261283462329245527&rtpof=true&sd=true) | Differentiating identity (Ser) from position/location (Estar) using prepositions like amb and de. | Ready |
-| **Lesson 11** | [Present Perfect (Pretèrit Perfet)](./Primary_Lessons/11_Present_Perfect/) | Link Pending | Introduction to the past tense to describe actions primary students have recently completed. | Ready |
-| **Lesson 12** | [Restaurant Scene](./Primary_Lessons/12_Restaurant_Scene/) | Link Pending | Theme-based vocabulary for food items, ordering meals, and using polite phrases (Al restaurant). | Ready |
-| **Lesson 13** | [Clothes, Colors & Weather](./Primary_Lessons/13_Clothes_Colors_Weather/) | Link Pending | Combining physical traits, clothing vocabulary, colors, seasons, and describing daily weather changes. | Ready |
+| **Lesson 1** | [Greetings & Pronunciation](./Primary_Lessons/01_Greetings_Pronunciation/) | [Google Slides](https://google.com) | Student assessment, 6 initial words introduced, basic phonics (*x, ny, ll, l·l*). | Ready |
+| **Lesson 2** | [Numbers & Dates](./Primary_Lessons/02_Numbers_Dates/) | [Google Slides](https://google.com) | Basic vocabulary assessment, counting past 100, days/months, and simple *Jo + verb* configurations. | Ready |
+| **Lesson 3** | [Basic Interactions](./Primary_Lessons/03_Basic_Interactions/) | [Google Slides](https://google.com) | Mastering high-frequency interactions using `Què fas?` (What are you doing?) and `Què tens?` (What do you have?). | Ready |
+| **Lesson 4** | [Preferences & Daily Routine](./Primary_Lessons/04_Preferences_Routine/) | [Google Slides](https://google.com) | Learning to voice basic child preferences using `M'agrada` / `No m'agrada` alongside daily actions. | Ready |
+| **Lesson 5** | [Simple Locations](./Primary_Lessons/05_Simple_Locations/) | [Google Slides](https://google.com) | Introducing basic physical concepts using `On és?` (Where is it?) and simple spatial directions. | Ready |
+
+### Phase 2: Systematic Grammar & Situational Units (Structured PPTs)
+
+| Lesson | Lesson Folder (Offline) | Live Presentation (Cloud) | Core Learning Focus & Keywords | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lesson 6** | [Modal Verbs (poder, haver de, voler)](./Primary_Lessons/06_Modal_Verbs/) | [Google Slides](https://google.com) | Expressing child-relevant ability, duty, and desire using `poder`, `haver de`, and `voler` variations. | Ready |
+| **Lesson 7** | [Shopping & Prices](./Primary_Lessons/07_Shopping_Prices/) | [Google Slides](https://google.com) | Practical vocabulary for buying items, asking for prices, math operations, and simple transactions. | Ready |
+| **Lesson 8** | [Presenting & Describing People](./Primary_Lessons/08_Describing_People/) | [Google Slides](https://google.com) | Foundations of identity introductions, describing others, and regular verb present tense conjugations. | Ready |
+| **Lesson 9** | [Possessive Adjectives](./Primary_Lessons/09_Possessive_Adjectives/) | [Google Slides](https://google.com) | Singular and plural modifiers (*el meu, la teva, els seus*) paired with family units and class objects. | Ready |
+| **Lesson 10** | [Estar, Positions & Feelings](./Primary_Lessons/10_Estar_Positions_Feelings/) | [Google Slides](https://google.com) | Describing spatial positions and temporary emotional states using `Estar` and structural prepositions. | Ready |
+| **Lesson 11** | [School & Materials](./Primary_Lessons/11_School_Materials/) | Link Pending | Vocabulary for classroom supplies, subjects, and expressions related to primary school routines. | Ready |
+| **Lesson 12** | [Restaurant Scene](./Primary_Lessons/12_Restaurant_Scene/) | Link Pending | Situational roleplay unit for ordering food items, communicating politeness, and table talk (*Al restaurant*). | Ready |
+| **Lesson 13** | [Clothes, Colors & Weather](./Primary_Lessons/13_Clothes_Colors_Weather/) | Link Pending | Combining clothing items, color adjectives, seasonal changes, and describing the daily weather. | Ready |
 
 ---
 
